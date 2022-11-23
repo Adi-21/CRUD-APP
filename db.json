@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Aditya Singh",
+      "email": "adi162@gmail.com",
+      "age": "18",
+      "id": 1,
+      "phone_no": "9356421856"
+    },
+    {
+      "name": "SHUKLA SHASHANK",
+      "email": "shashank0865@gmail.com",
+      "age": "20",
+      "id": 3,
+      "phone_no": "9856432318"
+    },
+    {
+      "name": "Aditya Kumar Singh",
+      "email": "adis21104@gmail.com",
+      "phone_no": "9321612910",
+      "age": "19",
+      "id": 4
+    }
+  ]
+}
